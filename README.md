@@ -1,6 +1,6 @@
 # Random Letter Generator
 
-*TODO: Proper README contents here once program is at a substantial level of completion.*
+A simple program that takes a random letter and presents it onto the screen. This was made for a "Social Event", as to mitigate the reliance on a webpage.
 
 # Build Instructions
 This was programmed using Visual Studio 2019, this should be as easy as:
